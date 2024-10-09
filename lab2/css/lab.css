@@ -6,4 +6,13 @@
     margin-bottom: 10px;
     border: solid 1px #772f62;
     background-color: #f5b3ce;
+    h1{
+      color:#772f62;
+      font-size: 150%;
+    }
+    p{
+      font-family: 'Times New Roman', Times, serif;
+      text-indent: 20px;
+      margin-left: 10px;
+    }
   }
