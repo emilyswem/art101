@@ -11,8 +11,18 @@
       font-size: 150%;
     }
     p{
-      font-family: 'Times New Roman', Times, serif;
+      font-family:Arial, Helvetica, sans-serif;
       text-indent: 20px;
       margin-left: 10px;
     }
   }
+div#hello-world 
+{
+ font-size: large;
+}
+div#paragraph {
+font-size: medium;
+}
+#content {border-style: dashed;
+border-color: #772f62;
+border-width: medium;}
