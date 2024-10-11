@@ -30,3 +30,6 @@ font-size: medium;
 #content {border-style: dashed;
 border-color: #772f62;
 border-width: medium;}
+.minor-section:hover{
+  color:#772f62
+}
