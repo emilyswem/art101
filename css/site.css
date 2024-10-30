@@ -34,3 +34,8 @@ h1 {
   border: solid 1px #888;
   background-color: #f5b3ce;
 }
+
+.star-border {
+  border: 20px solid;
+  border-image: url('./images/star-pattern.png') 30 round;
+}
