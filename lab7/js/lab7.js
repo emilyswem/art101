@@ -5,8 +5,8 @@
 
 //get string from user, sort a string, return a sorted string
 function sortStr() {
-    let userName = window.prompt ("hey diva! what's ur name?")
-    return userName("").sort().join("");
+    let userName = window.prompt ("hey diva! what's ur name?");
+    return userName.split("").sort().join("");
 }
 
 
