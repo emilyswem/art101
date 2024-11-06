@@ -10,14 +10,14 @@ $("#button-challenge").click(function(){
 });
 
 // add button to problems section
-$("#problems").append("<button id='button-challenge'>Make Special</button>");
+$("#problems").append("<button id='button-problems'>Make Special</button>");
 // add a click listener to the problems button
 $("#button-problems").click(function(){
     $("#problems").toggleClass("special");
 });
 
 // add button to results section
-$("#results").append("<button id='button-challenge'>Make Special</button>");
+$("#results").append("<button id='button-results'>Make Special</button>");
 // add a click listener to the results button
 $("#button-results").click(function(){
     $("#results").toggleClass("special");
