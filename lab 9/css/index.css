@@ -1,24 +1,24 @@
 .special {
-    background-color: rgb(222, 68, 112);
+    background-color: rgb(102, 177, 224);
     border: dashed 30px rgb(255, 255, 255);
     color: rgb(143, 69, 81);
     font-weight: bold;
 }
-#challenges {
+#challenge {
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #f5b3ce;
+    background-color: #fbd2d2;
   }
 #problems {
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #f5b3ce;
+    background-color: #fbd2d2;
   }
 #results {
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #f5b3ce;
+    background-color: #fbd2d2;
   }
