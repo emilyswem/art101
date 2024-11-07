@@ -1,3 +1,4 @@
+credit to Wes for CSS
 #output {
   background-color: white;
   margin: 10px auto;
@@ -33,6 +34,6 @@
 }
 
 .text:nth-child(even) p {
-  background-color: #45ba59;
+  background-color: #1b79c5;
   color: white;
 }
