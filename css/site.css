@@ -39,3 +39,19 @@ h1 {
   border: 20px solid;
   border-image: url('./images/star-pattern.png') 30 round;
 }
+
+#challenge {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #888;
+}
+#problems {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #888;
+}
+#results {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #888;
+}
