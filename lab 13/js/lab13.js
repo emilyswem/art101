@@ -1,4 +1,4 @@
-// lab 9 - Art 101 with Wes Modes
+// lab 13 - Art 101 with Wes Modes
 // Author: Emily Swem and Cristalyn Murray
 // Date: 11/13/24
 //cred to Wes for code :D
